@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Developer Roles
 - 🌱 I’m currently learning Full Stack Developer MERN with NxTWAVE 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me- veenabattul@gmail.com or www.linkedin.com/in/veenabattul
 
 <!---
 Veena2991/Veena2991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
