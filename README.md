@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Veena2991
 - 👀 I’m interested in Full Stack Web Developer Roles
 - 🌱 I’m currently learning Full Stack Developer MERN with NxTWAVE 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on exciting projects, gain hands-on experience, and contribute to the development of web applications.
 - 📫 How to reach me- veenabattul@gmail.com or www.linkedin.com/in/veenabattul
 
 <!---
